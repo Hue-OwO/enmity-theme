@@ -40,6 +40,6 @@
 		"WHITE": "#FFFFFF"
 	},
 	"unsafe_colors": {
-		"CHAT_GREY": "#000000"
+		"CHAT_GREY": "#FFF"
 	}
 }
