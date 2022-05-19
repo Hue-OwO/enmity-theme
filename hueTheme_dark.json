@@ -18,9 +18,9 @@
 		"CHANNELS_DEFAULT": ["#d638ad", "#1d1f2b"],
 		"HEADER_PRIMARY": ["#bfbfbf", "#1d1f2b"],
 		"HEADER_SECONDARY": ["#bfbfbf", "#1d1f2b"],
-		"INTERACTIVE_ACTIVE": ["#000000", "#1d1f2b"],
-		"INTERACTIVE_MUTED": ["#000000", "#1d1f2b"],
-		"INTERACTIVE_NORMAL": ["#000000", "#1d1f2b"],
+		"INTERACTIVE_ACTIVE": ["#1d1f2b", "#222330"],
+		"INTERACTIVE_MUTED": ["#1d1f2b", "#222330"],
+		"INTERACTIVE_NORMAL": ["#1d1f2b", "#222330"],
 		"TEXT_LINK": ["#d638ad", "#1d1f2b"],
 		"TEXT_MUTED": ["#bfbfbf", "#9c197a"],
 		"TEXT_NORMAL": ["#FFFFFF", "#1d1f2b"]
