@@ -3,8 +3,8 @@
 	"author": "Hue#1935",
 	"theme_color_map": {
 		"KEYBOARD": ["#222330", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#a9adcf", "#5c5f7d"],
-		"BACKGROUND_SECONDARY": ["#222330", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#222330", "#5c5f7d"],
+		"BACKGROUND_SECONDARY": ["#a9adcf", "#222330"],
 		"BACKGROUND_SECONDARY_ALT": ["#1d1f2b", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#000000", "#1d1f2b"],
 		"BACKGROUND_ACCENT": ["#000000", "#1d1f2b"],
