@@ -18,7 +18,7 @@
 		"CHANNELS_DEFAULT": ["#d638ad", "#1d1f2b"],
 		"HEADER_PRIMARY": ["#bfbfbf", "#1d1f2b"],
 		"HEADER_SECONDARY": ["#bfbfbf", "#1d1f2b"],
-		"INTERACTIVE_ACTIVE": ["#bfbfbf", "#222330"],
+		"INTERACTIVE_ACTIVE": ["#FFFFFF", "#222330"],
 		"INTERACTIVE_MUTED": ["#bfbfbf", "#222330"],
 		"INTERACTIVE_NORMAL": ["#bfbfbf", "#222330"],
 		"TEXT_LINK": ["#d638ad", "#1d1f2b"],
