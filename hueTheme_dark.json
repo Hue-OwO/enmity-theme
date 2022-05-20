@@ -37,7 +37,7 @@
     "PRIMARY_DARK_700": "#1d1f2b",
     "PRIMARY_DARK_800": "#000000",
     "BRAND_NEW": "#222330",
-    "WHITE": "#FFFFFF"
+    "WHITE": "#1d1f2b"
     },
 	"unsafe_colors": {
 		"CHAT_GREY": "#FFF"
