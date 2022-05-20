@@ -25,6 +25,20 @@
 		"TEXT_MUTED": ["#bfbfbf", "#9c197a"],
 		"TEXT_NORMAL": ["#FFFFFF", "#1d1f2b"]
 	},
+	  "colours": {
+    "PRIMARY_DARK": "#ffffff",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_300": "#ffffff",
+    "PRIMARY_DARK_360": "#222330",
+    "PRIMARY_DARK_400": "#1d1f2b",
+    "PRIMARY_DARK_500": "#1d1f2b",
+    "PRIMARY_DARK_600": "#111111",
+    "PRIMARY_DARK_630": "#1d1f2b",
+    "PRIMARY_DARK_700": "#1d1f2b",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#1d1f2b",
+    "WHITE": "#FFFFFF"
+    },
 	"unsafe_colors": {
 		"CHAT_GREY": "#FFF"
 	}
