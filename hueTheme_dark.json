@@ -3,7 +3,7 @@
 	"author": "Hue#1935",
 	"theme_color_map": {
 		"KEYBOARD": ["#222330", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#FFFFFF", "#1d1f2b"],
+		"BACKGROUND_PRIMARY": ["#1d1f2b", "#FFFFFFF"],
 		"BACKGROUND_SECONDARY": ["#222330", "#1d1f2b"],
 		"BACKGROUND_SECONDARY_ALT": ["#222330", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#000000", "#1d1f2b"],
