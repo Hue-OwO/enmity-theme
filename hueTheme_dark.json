@@ -26,7 +26,7 @@
 		"TEXT_NORMAL": ["#FFFFFF", "#1d1f2b"]
 	},
 	  "colours": {
-    "PRIMARY_DARK": "#ffffff",
+    "PRIMARY_DARK": "#1d1f2b",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_300": "#ffffff",
     "PRIMARY_DARK_360": "#222330",
